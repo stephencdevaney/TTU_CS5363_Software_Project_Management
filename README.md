@@ -2,7 +2,7 @@
 
 ## Group Members
     Stephen Devaney
-    Diane Renard
-    Diego Salas Noain
-    Sai Nikhil Kethireddy
     Randall Keur
+    Sai Nikhil Kethireddy
+    Diego Salas Noain
+    Diane Renard
